@@ -1,4 +1,4 @@
-# Android (HP)
+# Android/Mobile
 ## Official: Coming Soon
 ## Beta/Preview
 - [Beta 1.20.60.20](https://www.mediafire.com/file/96ds12g69mz2k95/MCraX_1.20.60.20_Beta.apk/file)
