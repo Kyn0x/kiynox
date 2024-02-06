@@ -2,6 +2,7 @@
 ## Official: Coming Soon
 ## Beta/Preview
 - [Beta 1.20.60.20](https://www.mediafire.com/file/96ds12g69mz2k95/MCraX_1.20.60.20_Beta.apk/file)
+- [Beta 1.20.70.21](https://pixeldrain.com/u/QEh1uqc6)
 
 # Komputer/Windows 10-11
 ## Official: Coming Soon
